@@ -12,10 +12,8 @@ Le client souhaite avoir une présentation avec des slides (format PDF) et un ta
 La présentation doit contenir au moins les informations suivantes :
 - présentation avec diapos : contexte et problématique, démarche d'analyse, outils utilisés, recommendations pour le client
 - methodologie d'analyse coherente
-
-
-+ notebook contenant l'analyse exploratoire des données
-+ dashboard contenant :
+- notebook contenant l'analyse exploratoire des données
+- dashboard contenant :
   - graphique
   - viz interactve
   - carte geographique
